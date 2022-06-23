@@ -1,18 +1,16 @@
-Hi 👋 My name is Marlon A. Espinosa Castaneiras
-===============================================
+# Hi 👋 My name is Marlon A. Espinosa Castaneiras
 
-Fullstack Developer at Go Rock IT (consulter for Groupe Dynamite Garage)
-------------------------------------------------------------------------
+## Fullstack Developer at Go Rock IT (consulter for Groupe Dynamite Garage)
 
 I'm an enthusiastic developer always ready and willing to learn new technologies, fanatic about reading API documentations and making new integrations of third-party applications in my projects (I'm serious!). I have focused my career and my study hours on the dream of becoming a software architect at some point during my career, so I spend much of my time studying software architectures and new ways of solving computer science problems.
 
-* 🌍  I'm based in Toronto, Canada
-* 🖥️  See my portfolio at [https://marlonaec.github.io/MarlonAEC/](http://marlonaec.github.io/MarlonAEC/)
-* ✉️  You can contact me at [marlon9402@outlook.com](mailto:marlon9402@outlook.com)
-* 🚀  I'm currently working on [NPM package for data structures in typescript](http://www.npmjs.com/package/data-structures-typescript)
-* 🧠  I'm learning GCP and studying for my Associate Cloud Engineer certification
-* 🤝  I'm open to collaborating on Typescript, ReactJS, React Native, NodeJS, Cloud, GCP projects
-* ⚡  Origami lover on my free time!
+- 🌍  I'm based in Toronto, Canada
+- 🖥️  See my portfolio at [https://marlonaec.github.io/MarlonAEC/](http://marlonaec.github.io/MarlonAEC/)
+- ✉️  You can contact me at [marlon9402@outlook.com](mailto:marlon9402@outlook.com)
+- 🚀  I'm currently working on [NPM package for data structures in typescript](http://www.npmjs.com/package/data-structures-typescript)
+- 🧠  I'm learning GCP and studying for my Associate Cloud Engineer certification
+- 🤝  I'm open to collaborating on Typescript, ReactJS, React Native, NodeJS, Cloud, GCP projects
+- ⚡  Origami lover on my free time!
 
 ### Skills
 
@@ -40,7 +38,6 @@ I'm an enthusiastic developer always ready and willing to learn new technologies
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-
 
 ### Socials
 

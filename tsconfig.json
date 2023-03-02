@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "outDir": "./built",
+    "forceConsistentCasingInFileNames": true,
+    "allowJs": true,
+    /* Enable all strict type-checking options */
+    "strict": true,
+    /* Specify ECMAScript target version */
+    "target": "ES6",
+    /*Open war against any type*/
+    "noImplicitAny": true,
+    /*Strict null checks to avoid crash issues related to undefined or null check*/
+    "strictNullChecks": true,
+    /* Specify module code generation */
+    "module": "ESNext",
+    "moduleResolution": "node",
+    /* allow import React instead of import * as React */
+    "allowSyntheticDefaultImports": true,
+    /* List of folders to include type definitions from */
+    "typeRoots": ["node_modules/@types"],
+    /*This is to avoid unreachable code and avoid unused code base*/
+    "allowUnreachableCode": false
+  },
+  "include": ["./src/**/*"]
+}

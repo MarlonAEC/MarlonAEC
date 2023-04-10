@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "types": ["node"],
     "jsx": "react",
     "outDir": "./built",
     "forceConsistentCasingInFileNames": true,
@@ -14,13 +15,20 @@
     "strictNullChecks": true,
     /* Specify module code generation */
     "module": "ESNext",
+    /* To select the way typescript is going to check types in third party libraries*/
     "moduleResolution": "node",
+    /* Ensures that every non-declaration file is treated as a module. */
+    "moduleDetection": "force",
     /* allow import React instead of import * as React */
     "allowSyntheticDefaultImports": true,
     /* List of folders to include type definitions from */
     "typeRoots": ["node_modules/@types"],
     /*This is to avoid unreachable code and avoid unused code base*/
-    "allowUnreachableCode": false
+    "allowUnreachableCode": false,
+    "lib": ["ES6", "DOM"],
+    "paths": {
+      "react": ["./node_modules/@types/react"]
+    }
   },
   "include": ["./src/**/*"]
 }
